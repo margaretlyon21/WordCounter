@@ -1,0 +1,6 @@
+Total words in C:\Users\marga\OneDrive\Documents\CountWords\home\data\IF-1.txt: 301
+Total words in C:\Users\marga\OneDrive\Documents\CountWords\home\data\AlwaysRememberUsThisWay-1.txt: 242
+Grand total of words across both files: 543
+Top 3 most frequent words in C:\Users\marga\OneDrive\Documents\CountWords\home\data\IF-1.txt: [('you', 20), ('and', 20), ('if', 14)]
+Top 3 most frequent words in C:\Users\marga\OneDrive\Documents\CountWords\home\data\AlwaysRememberUsThisWay-1.txt (after handling apostrophes): [('I', 15), ('the', 12), ('t', 9)]
+IP Address of the machine: 192.168.4.80
